@@ -1,4 +1,5 @@
 word = ''
+
 with open('input.txt', 'r', encoding='utf-8') as f1:
     for line in f1:
         if line.strip():
